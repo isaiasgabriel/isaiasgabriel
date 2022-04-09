@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚️ Software engineering student
+- 📚️ Software engineering student at Federal University of Technology of Paraná 🇧🇷 Brazil
 - 📕 I’m currently learning: Javascript, C
 - 💻️ OS: Linux
 - 🇧🇷 Location: Brazil
